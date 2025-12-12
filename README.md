@@ -3,16 +3,16 @@
 ## I enjoy supporting learning, community, and collaboration. 🗺️ 🐕 💻 🏃‍♀️ 
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/margaretvaltierra/)" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/margaretvaltierra" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://aws.amazon.com/](https://builder.aws.com/community/margaretvaltierra)" target="_blank" rel="noopener noreferrer">
+  <a href="https://builder.aws.com/community/margaretvaltierra" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
-  <a href="[https://dev.to/YOUR_USERNAME](https://dev.to/margaretvaltie)" target="_blank" rel="noopener noreferrer">
+  <a href="https://dev.to/margaretvaltie" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
-  <a href="[https://bsky.app/profile/YOUR_HANDLE](https://bsky.app/profile/margaretvaltie.bsky.social)" target="_blank" rel="noopener noreferrer">
+  <a href="https://bsky.app/profile/margaretvaltie.bsky.social" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white" alt="Bluesky">
   </a>
 </p>
